@@ -1,1 +1,2 @@
-# Happiness-Report
+# Happiness-Report 
+ The World Happiness Report analysis project aims to explore and analyze the factors contributing to happiness and well-being across countries. The project involves examining the annual World Happiness Report dataset, which provides rankings and scores for various countries based on happiness indicators. The goal is to gain insights into the determinants of happiness and identify patterns or trends that can inform policies and interventions for improving well-being.
